@@ -36,6 +36,8 @@ yay -S ttf-consolas-with-yahei
 ```
 __p.s. the font face of powerline patched version is also called "Consolas-with-Yahei", you can't install both of the two packages, they are in conflict with each other. (aurman will handle it)__
 
+__The terminal version is called "Consolas-with-Yahei-Term", so it can coexist with "Consolas-with-Yahei".__
+
 Other User:
 
 Go to the [Release Page](https://github.com/StarryLeo/Consolas-with-Yahei/releases) to Donwload the latest Release with `tar.xz` packaged.
@@ -47,3 +49,5 @@ Created by FontCreator
 powerline characters patched with [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 
 Patch description is [here](https://www.jianshu.com/p/e62bbbf31e85)
+
+Add terminal version, fix font sinking in terminal.
